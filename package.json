@@ -10,14 +10,14 @@
     "src",
     "lib"
   ],
-  "homepage": "https://github.com/xiabingwu/react-viewerjs",
+  "homepage": "https://github.com/emilwang/react-viewerjs",
   "author": "emil.wang@grapecity.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiabingwu/react-viewerjs.git"
+    "url": "git+https://github.com/emilwang/react-viewerjs.git"
   },
   "bugs": {
-    "url": "https://github.com/xiabingwu/react-viewerjs/issues"
+    "url": "https://github.com/emilwang/react-viewerjs/issues"
   },
   "licenses": "MIT",
   "main": "./lib/index",
