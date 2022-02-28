@@ -1,11 +1,9 @@
 {
-  "name": "react-viewerjs",
-  "version": "0.1.8",
+  "name": "leyserplus-react-viewerjs",
+  "version": "0.0.1",
   "description": "React wrapper for viewerjs",
   "keywords": [
-    "image preview",
     "react-viewerjs",
-    "基于viewerjs的react版本图片预览",
     "react"
   ],
   "files": [
@@ -13,7 +11,7 @@
     "lib"
   ],
   "homepage": "https://github.com/xiabingwu/react-viewerjs",
-  "author": "1052537969@qq.com",
+  "author": "emil.wang@grapecity.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiabingwu/react-viewerjs.git"
@@ -29,8 +27,8 @@
   },
   "dependencies": {
     "prop-types": "^15.5.8",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
     "viewerjs": "^1.0.0-rc.1"
   },
   "directories": {
